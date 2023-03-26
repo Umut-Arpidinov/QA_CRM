@@ -21,6 +21,3 @@ Run project
 npm run wdio
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
